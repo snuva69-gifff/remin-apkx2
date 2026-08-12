@@ -5,7 +5,7 @@ package.domain = org.test
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,wav,mp3
 version = 0.1
-requirements = python3,kivy,pygame
+requirements = python3,kivy
 orientation = landscape
 fullscreen = 1
 
@@ -17,4 +17,5 @@ warn_on_root = 1
 archs = armeabi-v7a
 api = 31
 minapi = 21
+ndk = 25b
 accept_sdk_license = True
