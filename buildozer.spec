@@ -17,3 +17,4 @@ warn_on_root = 1
 archs = armeabi-v7a
 api = 31
 minapi = 21
+accept_sdk_license = True
